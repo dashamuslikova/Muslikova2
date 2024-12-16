@@ -6,5 +6,6 @@
 2. Пол: женский
 3. Должность: WEB-аналитик
 
-- dashamuslikova@mail.ru
+- Почта: dashamuslikova@mail.ru
+- Телефон: 89103785746
 ![image](https://photo-ideal.ru/upload/iblock/458/fotosemka_sotrudnikov_56.jpg)
