@@ -6,4 +6,4 @@
 2. Пол: женский
 3. Должность: WEB-аналитик
 
-[Почта](dashamuslikova@mail.ru)
+- dashamuslikova@mail.ru
